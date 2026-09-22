@@ -31,7 +31,7 @@ An **alternative Telegram client** for running your work accounts — with the f
 | [Nicegram-iOS](https://github.com/nicegram/Nicegram-iOS) | iPhone and iPad |
 | [Nicegram-Android](https://github.com/nicegram/Nicegram-Android) | Android |
 | [nicegram-desktop](https://github.com/nicegram/nicegram-desktop) | macOS, Windows, Linux |
-| [Nicegram-VR](https://github.com/nicegram/Nicegram-VR) | Meta Quest 3 and 3S |
+| [Nicegram-VR](https://github.com/nicegram/Nicegram-VR) | Meta Quest 3 and 3S — experimental, sideload only |
 
 All of them are unofficial Telegram clients. They are not made or endorsed by Telegram, and they connect to Telegram’s service under Telegram’s [Terms of Service](https://telegram.org/tos) and [Privacy Policy](https://telegram.org/privacy).
 
